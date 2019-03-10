@@ -2,10 +2,10 @@
 Given a word or list of words, will display how many palindromes are in it.
 
 # Program
-**files.py**
+**files.py**<br />
 Holds the function to test file and return it in a list format.
 ---
-**index.py**
+**index.py**<br />
 Main file source to load a text file filled with words and count how many palindromes are in it.
 
 # Acknowledgements
