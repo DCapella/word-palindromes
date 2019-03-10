@@ -12,5 +12,5 @@ Main file source to load a text file filled with words and count how many palind
 * Idea came from a python book (Impractical Python Projects).
   * However, the code is mine.
 
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+---
 <sub><sub>I am an enthusiastic programmer who is a student in Data Science at General Assembly and Udacity. I am looking forward to becoming a Data Engineer.</sub></sub>
